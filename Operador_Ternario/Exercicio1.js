@@ -1,6 +1,6 @@
-//Exercício 1: Faça um programa que leia um número e informe se ele é positivo ou negativo usando o operador ternário.
+//Exercicio 1: Faca um programa que leia um numero e informe se ele e positivo ou negativo usando o operador ternario.
 const prompt = require('prompt-sync')();
 
-let numero = Number(prompt("Digite um número: "));
+let numero = Number(prompt("Digite um numero: "));
 
 console.log(numero >= 0 ? "Positivo" : "Negativo");

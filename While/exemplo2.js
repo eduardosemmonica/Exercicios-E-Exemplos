@@ -3,7 +3,7 @@ const prompt = require('prompt-sync')();
 let resposta = prompt("Digite 'sair' para parar: ");
 
 while (resposta !== 'sair') {
-    console.log("Você digitou: " + resposta);
+    console.log("Voce digitou: " + resposta);
     resposta = prompt("Digite 'sair' para parar: ");
 }
 

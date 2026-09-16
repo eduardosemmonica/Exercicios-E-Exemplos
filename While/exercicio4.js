@@ -3,16 +3,16 @@ const prompt = require('prompt-sync')();
 let number;
 
 do {
-    number = parseInt(prompt("Digite um número: "));
+    number = parseInt(prompt("Digite um numero: "));
 
     if (number > 0) {
-        console.log("Parabens seu numero é positivo: " + number);
+        console.log("Parabens seu numero e positivo: " + number);
     } else if (number === 0) {
-        console.log("Seu NUMERO É ZERO BRO");
+        console.log("Seu NUMERO E ZERO BRO");
         
         
     } else {
-        console.log("Número negativo, tente novamente.");
+        console.log("Numero negativo, tente novamente.");
     }
     
     
