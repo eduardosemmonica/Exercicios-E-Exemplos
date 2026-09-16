@@ -1,0 +1,1 @@
+console.log("Hoje é o primeiro dia do resto da sua vida")
