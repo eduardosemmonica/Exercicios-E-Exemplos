@@ -1,0 +1,81 @@
+Situação-problema
+Uma equipe de desenvolvimento precisa iniciar um pequeno projeto em JavaScript. O projeto deverá ser organizado em uma pasta própria, executado utilizando Node.js e armazenado em um repositório GitHub.
+
+A equipe decidiu começar com um programa simples que apresenta uma mensagem no terminal.
+
+Tarefa
+Realize as etapas abaixo:
+
+1. Criar a pasta do projeto
+Crie uma pasta chamada:
+
+atividade-aulas-1-a-6
+Abra essa pasta no VS Code.
+
+2. Criar o arquivo JavaScript
+Dentro da pasta, crie o arquivo:
+
+app.js
+Escreva um programa simples que apresente uma mensagem no terminal utilizando console.log().
+
+Exemplo:
+
+console.log("Meu primeiro projeto com Node.js!");
+3. Executar o programa
+Utilize o terminal para executar o arquivo com Node.js.
+
+O programa deverá apresentar a mensagem definida no código.
+
+4. Inicializar o Git
+Na pasta do projeto, inicialize um repositório Git.
+
+5. Verificar o estado do projeto
+Utilize um comando do Git para verificar as alterações existentes no repositório.
+
+6. Preparar o arquivo
+Prepare o arquivo app.js para ser incluído no próximo commit.
+
+7. Registrar a alteração
+Crie um commit registrando a primeira versão do projeto.
+
+Utilize uma mensagem que permita identificar o que foi realizado.
+
+8. Criar o repositório remoto
+Crie um repositório para essa atividade no GitHub.
+
+Utilize um nome relacionado à atividade, por exemplo:
+
+atividade-aulas-1-a-6
+9. Conectar o projeto ao repositório remoto
+Configure o projeto local para utilizar o repositório remoto criado no GitHub.
+
+10. Enviar o projeto
+Envie o commit para o repositório remoto.
+
+Ao finalizar, verifique no GitHub se o arquivo app.js está disponível no repositório.
+
+Evidência da atividade prática
+Ao finalizar, o estudante deverá apresentar:
+
+a pasta do projeto criada;
+o arquivo app.js;
+o programa executando corretamente com Node.js;
+o repositório Git inicializado;
+pelo menos um commit realizado;
+o repositório remoto criado;
+o arquivo disponível no GitHub.
+Checklist do estudante
+Etapa	Concluído
+Criei a pasta da atividade		V
+Abri a pasta no VS Code			V
+Criei o arquivo app.js			V
+Escrevi um código com console.log()	V
+Executei o programa com Node.js		V
+Inicializei o Git			V
+Verifiquei o estado do repositório	V
+Preparei o arquivo para o commit	V
+Realizei um commit			V
+Criei o repositório remoto		V
+Conectei o projeto  repositório remoto	V
+Enviei o projeto para o GitHub		V
+Conferi o arquivo no repositório remoto	V
